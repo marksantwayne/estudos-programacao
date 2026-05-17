@@ -10,32 +10,32 @@ Aprender programação de forma prática, estruturada e documentada, focando em 
 ### 💻 Git & GitHub
 > Versionamento de código e colaboração.
 - [x] Comandos básicos (add, commit, push)
-- [ ] Branches e merge
-- [ ] Resolução de conflitos
+- [x] Branches e merge
+- [x] Resolução de conflitos
 
 ### 🐍 Python
 > Automação, scripts e lógica de programação.
-- [ ] Variáveis e tipos de dados
-- [ ] Estruturas condicionais e loops
-- [ ] Funções e módulos
-- [ ] Manipulação de arquivos
+- [x] Variáveis e tipos de dados
+- [x] Estruturas condicionais e loops
+- [x] Funções e módulos
+- [x] Manipulação de arquivos
 
 ### 🌐 Web Fundamentos (HTML/CSS/JS)
 > Base para qualquer frontend ou fullstack.
-- [ ] HTML semântico
-- [ ] CSS responsivo
-- [ ] JavaScript DOM manipulation
-- [ ] React básico
+- [x] HTML semântico
+- [x] CSS responsivo
+- [x] JavaScript DOM manipulation
+- [x] React básico
 
 ### ⚙️ C# (.NET)
 > Backend corporativo e APIs REST.
-- [ ] Sintaxe básica C#
-- [ ] APIs com ASP.NET Core
-- [ ] Entity Framework
+- [x] Sintaxe básica C#
+- [x] APIs com ASP.NET Core
+- [x] Entity Framework
 
 ### 🔧 n8n & Automações
 > Integração de sistemas e fluxos automatizados.
-- [ ] Fluxos básicos n8n
+- [x] Fluxos básicos n8n
 - [ ] Webhooks e APIs
 - [ ] Automações cotidianas
 
